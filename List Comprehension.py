@@ -1,5 +1,3 @@
-Link to the question - https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
-
     x = int(input())
     y = int(input())
     z = int(input())
