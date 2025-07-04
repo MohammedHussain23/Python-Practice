@@ -1,2 +1,2 @@
 initial code
-this line is gong to be in v1
+this line is going to be in v1 --comment (mad man cannot spell going ah!)
