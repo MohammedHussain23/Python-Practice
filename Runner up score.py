@@ -8,3 +8,4 @@ for i in arr:
     if i != maxi:
         j.append(i)
 j.sort()
+print(j[-1])
